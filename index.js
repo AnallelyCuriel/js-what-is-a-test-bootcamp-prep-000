@@ -4,5 +4,6 @@ var height = 74
 var message = `${name} is ${height} inches tall`
 var tes= name + "valor" + height +"peso "
 console.log(message)
+console.log(tes)
 
 module.exports = {name, height, message}
